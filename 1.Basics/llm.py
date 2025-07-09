@@ -1,2 +1,2 @@
-def ask_llm():
-    return "Hey, How can I help you"
+def ask_llm(sum):
+    print("Hey, How can I help you")
